@@ -1,0 +1,12 @@
+{
+  "pub_key": "",
+  "name": "OwlStake",
+  "description": "We are a Professional Validator of PoS Cryptocurrencies who helps investors and token holders gain profits from their assets by consistently increasing their yields via non-custodial staking. Join us, stake, and earn.",
+  "company_name": "OwlStake",
+  "company_website": "https://owlstake.com",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "", "@2x": "", "@3x": "" },
+    "24x24": { "@1x": "", "@2x": "", "@3x": "" }
+  }
+}
