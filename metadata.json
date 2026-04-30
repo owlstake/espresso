@@ -6,7 +6,7 @@
   "company_website": "https://owlstake.com",
   "client_version": "v1.0.0",
   "icon": {
-    "14x14": { "@1x": "", "@2x": "", "@3x": "" },
-    "24x24": { "@1x": "", "@2x": "", "@3x": "" }
+    "14x14": { "@1x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-14.png", "@2x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-28.png", "@3x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-48.png" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-24.png", "@2x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-48.png", "@3x": "https://raw.githubusercontent.com/owlstake/espresso/refs/heads/main/icon-72.png" }
   }
 }
